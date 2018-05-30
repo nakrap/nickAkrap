@@ -14,12 +14,12 @@ The site serves as a digital resume and portfolio including:
 - Interests
 ```
 
-Deployment:
+## Deployment:
 
 https://nakrap.github.io/nickAkrap/
 
 
-Built With:
+## Built With:
 ```
 HTML,
 CSS,
