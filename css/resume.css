@@ -4,6 +4,10 @@ body {
   color: #868e96;
 }
 
+/* .resume-item .d-flex .flex-column .flex-md-row .mb-5 {
+  margin-bottom: 10px;
+} */
+
 @media (min-width: 992px) {
   body {
     padding-top: 0;
